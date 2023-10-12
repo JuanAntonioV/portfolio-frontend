@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>My Portfolio Website</h1>
+
+This project contains my portfolio which I attach in the form of a website. I made this to implement my skills as a Full Stack Web Developer using Next JS.
+
+## Table of Contents
+
+-   [Getting Started](#getting-started)
+-   [Built With](#built-with)
+-   [Versioning](#versioning)
+-   [License](#license)
 
 ## Getting Started
 
-First, run the development server:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+### Prerequisites
+
+What things you need to install the software and how to install them
+
+```
+Visual Studio Code
+
+Node JS
+
+NPM
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Installing
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+A step by step series of examples that tell you how to get a development env running
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Say what the step will be
 
-## Learn More
+```
+1. Clone this repository
+2. Open the folder in Visual Studio Code
+3. Open the terminal
+4. Type "npm install"
+5. Type "npm run dev"
+6. Open your browser and go to "localhost:3000"
+```
 
-To learn more about Next.js, take a look at the following resources:
+End with an example of getting some data out of the system or using it for a little demo
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Built With
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+-   [Next JS](https://nextjs.org/) - The web framework used
+-   [React](https://reactjs.org/) - The web framework used
+-   [Tailwind CSS](https://tailwindcss.com/) - The CSS framework used
 
-## Deploy on Vercel
+## Versioning
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+-   Next JS: `^13.5.4`
+-   React JS: `^18`
+-   Node.js: `^18.18.0`
+-   NPM: `^9.6.4`
+-   PNPM: `^8.9.0`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
